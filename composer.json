@@ -1,0 +1,15 @@
+{
+    "name": "sanjarani/azure",
+    "autoload": {
+        "psr-4": {
+            "Sanjarani\\Azure\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kiyarash",
+            "email": "kiyarash@frodotech.co.nz"
+        }
+    ],
+    "require": {}
+}
